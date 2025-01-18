@@ -1,0 +1,11 @@
+{
+  "network": "polygon",
+  "chainId": 137,
+  "contracts": {
+    "WDOGE": "0xbA4fd44f097BE15226f440a76F5237774E0068Aa",
+    "WDOGEStaking": "0x166bD9C347B4c1DEC4c2B5c3aE2c2eBB1126D6aF",
+    "WDOGELending": "0x648e8E8704E975f138F4d7Cad17f943a8b62b00A",
+    "GasRelayer": "0xff3419b7b613599c35a480D482645672C6FC8425"
+  },
+  "deploymentDate": "2025-01-18T07:19:06.763Z"
+}
